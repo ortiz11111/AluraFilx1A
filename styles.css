@@ -50,6 +50,6 @@ img {
 
 .categoria-videosimg:hover {
   opacity:    1.0;
-
+  border: 1px solid green
 }
 
